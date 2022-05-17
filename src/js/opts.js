@@ -37,7 +37,7 @@ function download_as_text() {
 
   console.log('download!-sayshello');
 
-  const str = document.getElementById('outbox');
+  const str = document.getElementById('toutput');
 
   const blob = new Blob([str], {
     type: 'text/plain'
