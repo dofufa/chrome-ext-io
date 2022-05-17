@@ -39,6 +39,8 @@ function download_as_text() {
 
   const str = document.getElementById('toutput').innerHTML;
 
+  console.log(str);
+
   const blob = new Blob([str], {
     type: 'text/plain'
   });
