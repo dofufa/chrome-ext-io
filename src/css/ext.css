@@ -1,0 +1,12 @@
+textarea {
+  color: navy;
+  font-weight: 900;
+  background-color: lightgreen;
+  width: 250px;
+  height: 200px;
+  margin-right: 5px;
+}
+
+body {
+  margin: 10px;
+}
