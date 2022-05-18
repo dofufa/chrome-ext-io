@@ -9,7 +9,7 @@ The following is a list of special permissions required for this extension.
 ### chrome.storage
 + Required to save preferences to Chrome user account.
 + Preferences are stored as "cloud cookies" for a better user experience.
-+ No personally-identifying data collected.
++ No personally-identifying information is collected.
   + See our [privacy policy][privacy] for details.
 
 ---
