@@ -1,5 +1,4 @@
-Permissions
------------
+# Permissions
 
 The following is a list of special permissions required for this extension.
 
