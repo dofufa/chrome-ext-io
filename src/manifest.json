@@ -1,6 +1,10 @@
 {
   "name": "chrome-ext-io",
+  "short_name": "io (namespace)",  
+  
   "version": "0.1",
+  "version_name": "v0.1 (mnemonics)",  
+
   "description": "chrome ext template for i/o modules",
 
   "icons": {
