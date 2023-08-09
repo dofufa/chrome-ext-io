@@ -7,7 +7,7 @@ This is a generic template for building i/o modules.
 To download all the contents from all submodules, be sure to use this command:
 
 ```bash
-git clone --recurse-submodules https://github.com/pffy/chrome-ext-io
+git clone --recurse-submodules https://github.com/dofufa/chrome-ext-io
 ```
 
 ### `src`
